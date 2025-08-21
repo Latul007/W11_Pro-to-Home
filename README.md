@@ -3,7 +3,7 @@ passer de windows 11 Pro en Home
 
 Utilisation rapide
 
-1.  Monte l’ISO Windows 11 Home (x64, 22H2 recommandé).
+1.  Monte l’ISO Windows 11 Home (x64, 24H2 recommandé).
 
 2.  Exécute le .bat en tant qu’administrateur.
 
